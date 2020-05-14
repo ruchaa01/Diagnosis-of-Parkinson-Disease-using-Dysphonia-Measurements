@@ -1,0 +1,2 @@
+# Diagnosis-of-Parkinson-Disease-using-Dysphonia-Measurements
+Approximately 90% of patients with Parkinson’s Disease exhibit some form of vocal impairment. Vocal impairment is also one of the earliest indicators for the onset of the illness. Proposed the use of different features of voice measurements to diagnose Parkinson's Disease using 6 different ML algorithms and performed a comparative study for the same by using different optimization techniques to get the highest accuracy for Shallow Neural Networks of 89.71%
